@@ -10,3 +10,5 @@ mean_mpg
 #plot wt vs mpg
 plot(mtcars$wt,mtcars$mpg)
 
+#this code only existes at second branch
+summary(mtcars)
